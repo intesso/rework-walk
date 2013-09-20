@@ -1,0 +1,15 @@
+{
+  "name": "rework-walk",
+  "version": "1.0.0",
+  "description": "Recursively walk through all rules and keyframes",
+  "keywords": [
+    "css",
+    "rework",
+    "walk"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intesso/rework-walk.git"
+  }
+}
